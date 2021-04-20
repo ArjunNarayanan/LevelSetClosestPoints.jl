@@ -1,0 +1,13 @@
+name = "LevelSetClosestPoints"
+uuid = "d375c8e7-e0c9-4bba-a358-9e51936f8b30"
+authors = ["Arjun Narayanan"]
+version = "0.1.0"
+
+[compat]
+julia = "1.5"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
